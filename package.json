@@ -27,7 +27,7 @@
     "dotenv": "latest",
     "express": "^4.17.1",
     "mariadb": "^2.1.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "morgan": "^1.9.1",
     "mysql2": "^1.7.0",
     "rxjs": "^6.5.3"
